@@ -444,6 +444,6 @@ Output: largest number.
         System.out.println(factorial(5));
 
         Practice3 practice3 = new Practice3();
-        System.out.println(Practice2.count);
+//        System.out.println(Practice2.count);
     }
 }
